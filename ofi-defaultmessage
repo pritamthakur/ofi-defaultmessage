@@ -1,1 +1,22 @@
-This website has been deactivate. To re-activate, please contact prtm.thakur@gmail.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Only for Ishani</title>
+  <style>
+    body {
+      background-color: #fdf6e3;
+      color: #333;
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>This website was made only for Ishani 💛</h1>
+</body>
+</html>
